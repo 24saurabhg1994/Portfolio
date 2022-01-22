@@ -375,6 +375,45 @@ img{
     color: var(--first-color);
 }
 
+/* .edu__container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cardedu{
+    background: #222;
+    text-align: center;
+    border-radius: 6px;
+    padding: 50px 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.cardedu:hover{
+    background: crimson;
+}
+.cardedu .card-body{
+    transition: all 0.3s ease;
+    color: white;
+}
+.cardedu:hover .card-body{
+    transform: scale(1.05);
+}
+.cardedu i{
+    font-size: 50px;
+    color: crimson;
+    transition: color 0.3s ease;
+}
+.cardedu:hover i{
+    color: #fff;
+}
+.cardedu .card-title{
+    font-size: 25px;
+    font-weight: 500;
+    margin: 10px 0 7px 0;
+} */
+
 /* ===== MEDIA QUERIES =====*/
 /* For small devices */
 @media screen and (max-width: 320px) {
@@ -516,7 +555,6 @@ img{
 
     .timeline{
         display: block;
-        width: 80%;
         margin: 150px auto;
     }
     
